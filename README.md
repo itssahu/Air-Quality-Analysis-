@@ -8,7 +8,7 @@ Air quality index (AQI) analysis is crucial for environmental management and pub
 
 ## Motivation
 
-With rising urbanization, air quality has become a pressing issue. This project demonstrates how to:
+This project demonstrates how to:
 - **Calculate and analyze the Air Quality Index (AQI) based on pollutant concentrations.**
 - **Examine the distribution of AQI categories to understand the prevalence of different air quality conditions.** 
 - **Investigate hourly trends in AQI to identify patterns and peak pollution hours.** 
