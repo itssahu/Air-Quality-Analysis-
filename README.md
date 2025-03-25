@@ -33,6 +33,7 @@ aqi_categories = [
 -**Correlation between pollutants**
   ![corrr](https://github.com/user-attachments/assets/326f2de5-7d09-492f-b324-dbc0a26ca756)
   The correlation matrix displayed here represents the correlation coefficients between different air pollutants in the dataset. Correlation coefficients measure the strength and direction of the linear relationship between two variables, with values ranging from -1 to 1. Overall, the positive correlations among CO, NO, NO2, SO2, PM2.5, PM10, and NH3 suggest that they may share common sources or have similar pollution patterns, while O3 exhibits an inverse relationship with the other pollutants, which may be due to its role as both a pollutant and a natural atmospheric oxidant.
+
 -**Hourly average trends of AQI in Delhi**
   ![hrly](https://github.com/user-attachments/assets/74dece21-56cd-49ce-9464-7a76d78d7f31)
 
