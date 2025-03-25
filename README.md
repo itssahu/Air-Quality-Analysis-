@@ -18,6 +18,7 @@ This project demonstrates how to:
 - **Time series analysis of air pollutants in Delhi**![timeseries](https://github.com/user-attachments/assets/849db0e5-fc87-4578-841c-03a89cde54f8)
 - **Calculating AQI**
 -  Define AQI breakpoints, corresponding AQI values and AQI categories
+
 aqi_breakpoints = [
     (0, 12.0, 50), (12.1, 35.4, 100), (35.5, 55.4, 150),
     (55.5, 150.4, 200), (150.5, 250.4, 300), (250.5, 350.4, 400),
