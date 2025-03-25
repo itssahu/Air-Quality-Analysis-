@@ -16,7 +16,8 @@ With rising urbanization, air quality has become a pressing issue. This project 
 - **Compare the calculated AQI metrics with recommended air quality metrics to evaluate the severity of air quality in Delhi.** 
 ## Methodology
 - **Time series analysis of air pollutants in Delhi**![timeseries](https://github.com/user-attachments/assets/849db0e5-fc87-4578-841c-03a89cde54f8)
-- **Calculating AQI**# Define AQI breakpoints, corresponding AQI values and AQI categories
+- **Calculating AQI**
+-  Define AQI breakpoints, corresponding AQI values and AQI categories
 aqi_breakpoints = [
     (0, 12.0, 50), (12.1, 35.4, 100), (35.5, 55.4, 150),
     (55.5, 150.4, 200), (150.5, 250.4, 300), (250.5, 350.4, 400),
@@ -26,6 +27,7 @@ aqi_categories = [
     (0, 50, 'Good'), (51, 100, 'Moderate'), (101, 150, 'Unhealthy for Sensitive Groups'),
     (151, 200, 'Unhealthy'), (201, 300, 'Very Unhealthy'), (301, 500, 'Hazardous')
 ]
+
 -**Analyzing AQI of Delhi**
   ![aqitre](https://github.com/user-attachments/assets/11e03340-4801-405f-87a2-8ea123681340)![aqicat](https://github.com/user-attachments/assets/850d8a58-cd37-4a8e-9cad-d25ee8b0aad5)![pol](https://github.com/user-attachments/assets/763412ba-bacb-4ae4-99fa-78f86178cab5)
 -**Correlation between pollutants**
